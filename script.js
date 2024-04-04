@@ -1,3 +1,5 @@
+document.title = "Random Password Generator"
+
 const passBox = document.getElementById("pass-box")
 const upperCase = document.getElementById("upper-case")
 const lowerCase = document.getElementById("lower-case")
